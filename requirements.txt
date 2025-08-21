@@ -1,0 +1,4 @@
+voila
+ipywidgets>=8
+qiskit
+qiskit-aer
